@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b995eff7-ebd0-471f-8110-fcbf707db0b9" name="Changes" comment="Línea base del proyecto">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemploo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemploo1.py" afterDir="false" />
-    </list>
+    <list default="true" id="b995eff7-ebd0-471f-8110-fcbf707db0b9" name="Changes" comment="Refactorización ejem01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,12 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725922619856</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Refactorización ejem01">
+      <option name="closed" value="true" />
+      <created>1725923855447</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725923855447</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Línea base del proyecto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Línea base del proyecto" />
+    <MESSAGE value="Refactorización ejem01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactorización ejem01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
