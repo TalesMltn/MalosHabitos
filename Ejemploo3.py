@@ -10,14 +10,17 @@ def g(b, h):
 
 # Función principal
 def main():
-    x = 4
-    y = 6
+    # Entrada de valores para el rectángulo
+    x = float(input("Ingrese el ancho del rectángulo: "))
+    y = float(input("Ingrese la altura del rectángulo: "))
     rect_area = f(x, y)
     print("Área del rectángulo:", rect_area)
 
-    base = 5
-    altura = 8
+    # Entrada de valores para el triángulo
+    base = float(input("Ingrese la base del triángulo: "))
+    altura = float(input("Ingrese la altura del triángulo: "))
     tri_area = g(base, altura)
     print("Área del triángulo:", tri_area)
 
 main()
+
