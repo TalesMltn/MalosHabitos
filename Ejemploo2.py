@@ -1,12 +1,11 @@
-def calcular(a, b, c):
-    res = a * b + c
-    return res
+def multiplicacion(factor1, factor2):
+    producto = factor1 * factor2
+    return producto
 
 def principal():
-    x = 5
-    y = 3
-    z = 7
-    resultado = calcular(x, y, z)
-    print("El resultado es:", resultado)
+    x = 5.0
+    y = 3.0
+    resultado = multiplicacion(x, y)
+    print(f"{x} * {y} = {resultado}")
 
 principal()
