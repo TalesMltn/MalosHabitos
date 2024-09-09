@@ -22,6 +22,6 @@ def principal():
 
     # Mostrar los resultados
     print(f"{multiplicando} * {multiplicador} = {resultado_multiplicacion}")
-    print(f"Resultado final ({resultado_multiplicacion} + {valor_a_sumar}) = {resultado_final}")
+    print(f"Resultado final es ({resultado_multiplicacion} + {valor_a_sumar}) = {resultado_final}")
 
 principal()
