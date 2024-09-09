@@ -20,7 +20,7 @@ def main():
     base = float(input("Ingrese la base del triángulo: "))
     altura = float(input("Ingrese la altura del triángulo: "))
     tri_area = g(base, altura)
-    print("Área del triángulo:", tri_area)
+    print("Área del triángulo es :", tri_area)
 
 main()
 
